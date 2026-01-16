@@ -1,9 +1,8 @@
-![](https://file.garden/aIrFR9W4twp1wUOQ/Untitled230_20260116063425.png)
+![](https://file.garden/aIrFR9W4twp1wUOQ/tumblr_73e3499c8f78b3e4f659e2752588c43c_aec06aea_2048.png)
 
 ![](https://file.garden/aIrFR9W4twp1wUOQ/Untitled230_20260116063219.png)
 
-![](https://file.garden/aIrFR9W4twp1wUOQ/Untitled230_20260116063425.png)
-
+![](https://file.garden/aIrFR9W4twp1wUOQ/tumblr_73e3499c8f78b3e4f659e2752588c43c_aec06aea_2048.png)
 
 <div id="text" align="center"> 
   
