@@ -10,3 +10,6 @@
 ‎ ‎ ‎ ‎ [🔮 straw](https://odysseyduoos.straw.page/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [☯️ ata](https://lawzos.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ‎![](https://komarev.com/ghpvc/?username=your-github-username&label=ლ&color=800080)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk3kqasav3276idzo94kiu70w&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
