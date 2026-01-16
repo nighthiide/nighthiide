@@ -9,3 +9,4 @@
   
 ‎ ‎ ‎ ‎ [🔮 straw](https://odysseyduoos.straw.page/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [☯️ ata](https://lawzos.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎![](https://komarev.com/ghpvc/?username=your-github-username&label=ლ&color=800080)
