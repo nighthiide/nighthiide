@@ -8,7 +8,9 @@
   
 ‎ ‎ ‎ ‎ [🔮 straw](https://odysseyduoos.straw.page/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 [☯️ ata](https://lawzos.atabook.org/)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎![](https://komarev.com/ghpvc/?username=your-github-username&label=ლ&color=800080)
+‎![](https://komarev.com/ghpvc/?username=your-github-username&label=ლ&color=915ff0)
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk3kqasav3276idzo94kiu70w&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zk3kqasav3276idzo94kiu70w&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=b078ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![](https://file.garden/aIrFR9W4twp1wUOQ/tumblr_5b638be31dfd6b649fbc4b42bd4118cc_ce1d280a_1280.gif.webp)
