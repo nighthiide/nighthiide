@@ -7,8 +7,9 @@
 <div id="text" align="center"> 
   
 ‎ ‎ ‎ ‎ [🔮 straw](https://nighthiide.straw.page)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-[☯️ ata](https://lawzos.atabook.org/)‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎[guns💜](‎https://guns.lol/sunsspace)
+[☯️ ata](https://lawzos.atabook.org/)‎ ‎ ‎ ‎ ‎[👾guns](https://guns.lol/sunsspace)
 ‎ ‎ ‎ 
+
 ‎![](https://komarev.com/ghpvc/?username=your-github-username&label=ლ&color=915ff0)
 
 
