@@ -6,7 +6,7 @@
 
 <div id="text" align="center"> 
   
-‎ ‎ ‎ ‎ [🔮 straw](https://nighthiide.straw.page)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ [🔮 straw](https://nighthiide.straw.page)‎ ‎ ‎ ‎
 [☯️ ata](https://lawzos.atabook.org/)‎ ‎ ‎ ‎ ‎[👾guns](https://guns.lol/sunsspace)
 ‎ ‎ ‎ 
 
